@@ -1,2 +1,4 @@
 Hello, this is my first Git project!
 hi gittuu
+hello moto
+hello kittu
