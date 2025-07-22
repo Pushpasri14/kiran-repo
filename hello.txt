@@ -2,3 +2,4 @@ Hello, this is my first Git project!
 hi gittuu
 hello moto
 hello kittu
+hi guys now i updated the file
