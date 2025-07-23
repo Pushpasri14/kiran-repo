@@ -4,3 +4,4 @@ for i in l1:
 print(l1)
 print("looping the list")
 print("this is branch b1")
+print("git pull")
