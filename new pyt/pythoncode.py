@@ -12,5 +12,4 @@ print("hi this is priya")
 print("How are you")
 print("hi this is meeeeee")
 print("superbb")
-print("hi kiran")
-print("this is priya")
+
